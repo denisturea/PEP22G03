@@ -22,13 +22,13 @@
 # print(f"Sunt {counterlis} obiecte de tip lista.")
 
 #Problema 2
-
-sir = str.lower(input("Alege-ti un sir:"))
-list =sir.split()
-next_obj=list.__iter__()
-print(list)
-counter = 0
-for vocala in list:
-    if vocala == "a" :
-        counter +=1
-print("Numarul vocalelor din lista este:", counter)
+#
+# sir = str.lower(input("Alege-ti un sir:"))
+# list =sir.split()
+#
+# print(list)
+# counter = 0
+# for char in sir:
+#     if char in "aeiou":
+#         counter +=1
+# print("Numarul vocalelor din lista este:", counter)
